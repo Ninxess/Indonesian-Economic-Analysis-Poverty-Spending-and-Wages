@@ -1,5 +1,5 @@
  Indonesian-Economic-Analysis-Poverty-Spending-and-Wages
-My first project. This project analyzes the relationship between Poverty Line, Per Capita Spending, Provincial Minimum Wage (UMP), and Hourly Wages across Indonesia using publicly available data from keggle :"https://www.kaggle.com/datasets/rezkyyayang/pekerja-sejahtera/data"
+My first project. This project analyzes the relationship between Poverty Line, Per Capita Spending, Provincial Minimum Wage (UMP), and Hourly Wages across Indonesia using publicly available data from kaggle :"https://www.kaggle.com/datasets/rezkyyayang/pekerja-sejahtera/data"
  📂 Data Sources
 - gk.df.csv  : Per Capita Poverty Line 
 - peng.df.csv: Average Per Capita Spending 
